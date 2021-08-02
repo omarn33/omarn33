@@ -2,10 +2,10 @@
 I'm an undegrad majoring in CS at the University of Illinois at Urbana-Champaign.
 
 ### Professional Interests
-- Software Engineering
-- UI/UX Design
-- Full Stack Development
-- AI and ML
+- 🖥 Software Engineering
+- 🎨 UI/UX Design
+- ⚙ Full Stack Development
+- 🤖 AI and ML
 
 ### Personal Hobbies
 - ✈ Aviation
