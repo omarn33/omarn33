@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello, I'm Omar!
+I'm an undegrad majoring in CS at the University of Illinois at Urbana-Champaign.
 
-<!--
-**omarn33/omarn33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Professional Interests
+- Software Engineering
+- UI/UX Design
+- Full Stack Development
+- AI and ML
 
-Here are some ideas to get you started:
+### Personal Hobbies
+- ✈ Aviation
+- ⚽ Soccer
+- 🎾 Tennis
+- 🏓 Ping Pong
+- 🎮 Gaming
+ 
+ ### Contact Me
+👔 [linkedin][linkedin] **|**
+💻 [website][website]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[website]: https://omarn33.github.io/cv/
+[linkedin]: https://www.linkedin.com/in/omarnaeem33
+
