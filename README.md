@@ -16,9 +16,9 @@ I'm an undegrad majoring in CS at the University of Illinois at Urbana-Champaign
 - 🎮 Gaming
  
  ### Contact Me
-👔 [linkedin][linkedin] **|**
-💻 [website][website]
+👔 [LinkedIn][LinkedIn] **|**
+💻 [Website][Website]
 
-[website]: https://omarn33.github.io/cv/
-[linkedin]: https://www.linkedin.com/in/omarnaeem33
+[Website]: https://omarn33.github.io/cv/
+[LinkedIn]: https://www.linkedin.com/in/omarnaeem33
 
