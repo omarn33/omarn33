@@ -1,5 +1,5 @@
 # Hello, I'm Omar!
-I'm an undegrad majoring in CS at the University of Illinois at Urbana-Champaign.
+I'm a GenAI Engineer currently working at United Airlines.
 
 ### Professional Interests
 - 🖥 Software Engineering
